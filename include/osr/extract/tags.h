@@ -473,6 +473,8 @@ struct foot_profile {
         case cista::hash("primary_link"):
         case cista::hash("secondary"):
         case cista::hash("secondary_link"):
+        case cista::hash("trunk"):
+        case cista::hash("trunk_link"):
         case cista::hash("tertiary"):
         case cista::hash("tertiary_link"):
         case cista::hash("unclassified"):
